@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Editwithkrish
+- 👋 Hi, I’m Krishna Kumar Jha
 - 👀 I’m interested in WebDevelopment and UI/UX
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Software Dev Projects
